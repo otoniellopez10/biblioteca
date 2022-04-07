@@ -24,6 +24,7 @@ if (!isset($_SESSION['email'])) {
 </head>
 
 <body>
+    <img src="assets/images/logo-iujo2.png" alt="" id="logo">
 
     <main class="d-flex justify-content-center align-items-center">
         <form class="p-5 pt-3 d-flex flex-column">

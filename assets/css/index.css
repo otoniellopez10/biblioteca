@@ -20,6 +20,14 @@ body {
         url(../images/index-bg.jpg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+#logo {
+    position: fixed;
+    width: 90%;
+    max-width: 210px;
+    top: 10px;
+    left: 10px;
+}
+
 main {
     /* min-width: 100vw;
     max-width: 100vw; */
