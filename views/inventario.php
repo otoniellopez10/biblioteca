@@ -26,7 +26,7 @@ if (!isset($_SESSION['email'])) {
     <!-- css del sitio -->
     <link rel="stylesheet" href="../assets/css/estilos.css">
     <!-- <link rel="stylesheet" href="../assets/css/inventario.css"> -->
-    <title></title>
+    <title>Inventario</title>
 
     <style>
         .titulo {
@@ -56,7 +56,7 @@ if (!isset($_SESSION['email'])) {
                 <div class="table-responsive">
                     <table id="tableLibros" class="table table-hover">
                         <thead>
-                            <tr>
+                            <tr class="text-primary">
                                 <th>Cota</th>
                                 <th>Nombre</th>
                                 <th>Autor</th>
